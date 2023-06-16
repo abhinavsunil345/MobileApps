@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FDF81D1A-B88C-4F55-BBF7-65F86EA0EFFE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0599FA49-C9E4-4153-AE5E-EFC1F545B996"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Assignment6UITests/BasicUITests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "BasicUITests"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "0599FA49-C9E4-4153-AE5E-EFC1F545B996 - 4aa1053b908e2e6b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of Assignment6UITests.BasicUITests.login(Swift.String, Swift.String) -&gt; ()"
+                  moduleName = "Assignment6UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinavsunil/cse118/Assignment6/Assignment6UITests/BasicUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "0599FA49-C9E4-4153-AE5E-EFC1F545B996 - 1209ff0ba0d6fb74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 1 of Assignment6UITests.BasicUITests.login(Swift.String, Swift.String) -&gt; ()"
+                  moduleName = "Assignment6UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinavsunil/cse118/Assignment6/Assignment6UITests/BasicUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "0599FA49-C9E4-4153-AE5E-EFC1F545B996 - fd23e14f90944f08"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Assignment6UITests.BasicUITests.login(Swift.String, Swift.String) -&gt; ()"
+                  moduleName = "Assignment6UITests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhinavsunil/cse118/Assignment6/Assignment6UITests/BasicUITests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

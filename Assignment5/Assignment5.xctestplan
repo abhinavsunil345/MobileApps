@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "6890655B-B396-4670-ADFC-D3FD637B8C33",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Assignment5.xcodeproj",
+      "identifier" : "FE3CA9EB28FA05E4005B09B6",
+      "name" : "Assignment5"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Assignment5.xcodeproj",
+        "identifier" : "FE3CAA0528FA05E4005B09B6",
+        "name" : "Assignment5UITests"
+      }
+    }
+  ],
+  "version" : 1
+}

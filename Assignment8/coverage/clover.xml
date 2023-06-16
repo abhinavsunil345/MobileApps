@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1685688381418" clover="3.2.0">
+  <project timestamp="1685688381418" name="All files">
+    <metrics statements="141" coveredstatements="141" conditionals="20" coveredconditionals="20" methods="32" coveredmethods="32" elements="193" coveredelements="193" complexity="0" loc="141" ncloc="141" packages="4" files="11" classes="11"/>
+    <package name="Assignment8">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <file name="App.js" path="/Users/abhinavsunil/cse118/Assignment8/App.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="14" type="stmt"/>
+      </file>
+    </package>
+    <package name="Assignment8.src">
+      <metrics statements="31" coveredstatements="31" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+      <file name="Main.js" path="/Users/abhinavsunil/cse118/Assignment8/src/Main.js">
+        <metrics statements="31" coveredstatements="31" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="27" count="44" type="stmt"/>
+        <line num="28" count="44" type="stmt"/>
+        <line num="29" count="44" type="stmt"/>
+        <line num="30" count="44" type="stmt"/>
+        <line num="31" count="44" type="stmt"/>
+        <line num="32" count="44" type="stmt"/>
+        <line num="34" count="44" type="stmt"/>
+        <line num="35" count="14" type="stmt"/>
+        <line num="40" count="14" type="stmt"/>
+        <line num="41" count="14" type="stmt"/>
+        <line num="42" count="14" type="stmt"/>
+        <line num="44" count="14" type="stmt"/>
+        <line num="45" count="14" type="stmt"/>
+        <line num="46" count="14" type="stmt"/>
+        <line num="47" count="14" type="stmt"/>
+        <line num="53" count="14" type="stmt"/>
+        <line num="59" count="14" type="stmt"/>
+        <line num="60" count="14" type="stmt"/>
+        <line num="61" count="14" type="stmt"/>
+        <line num="62" count="14" type="stmt"/>
+        <line num="68" count="14" type="stmt"/>
+        <line num="74" count="14" type="stmt"/>
+        <line num="80" count="14" type="stmt"/>
+        <line num="86" count="14" type="stmt"/>
+        <line num="105" count="14" type="stmt"/>
+        <line num="108" count="44" type="stmt"/>
+        <line num="129" count="20" type="stmt"/>
+        <line num="138" count="7" type="stmt"/>
+        <line num="147" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="Assignment8.src.Context">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="WorkspacesContext.js" path="/Users/abhinavsunil/cse118/Assignment8/src/Context/WorkspacesContext.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="10" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="Assignment8.src.UI">
+      <metrics statements="107" coveredstatements="107" conditionals="20" coveredconditionals="20" methods="26" coveredmethods="26"/>
+      <file name="ChannelCard.js" path="/Users/abhinavsunil/cse118/Assignment8/src/UI/ChannelCard.js">
+        <metrics statements="33" coveredstatements="33" conditionals="10" coveredconditionals="10" methods="5" coveredmethods="5"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="46" count="2" type="stmt"/>
+        <line num="47" count="30" type="stmt"/>
+        <line num="49" count="30" type="stmt"/>
+        <line num="50" count="120" type="stmt"/>
+        <line num="53" count="30" type="stmt"/>
+        <line num="54" count="120" type="stmt"/>
+        <line num="55" count="120" type="stmt"/>
+        <line num="56" count="30" type="cond" truecount="2" falsecount="0"/>
+        <line num="58" count="30" type="stmt"/>
+        <line num="59" count="30" type="stmt"/>
+        <line num="60" count="30" type="stmt"/>
+        <line num="61" count="30" type="stmt"/>
+        <line num="62" count="30" type="stmt"/>
+        <line num="63" count="30" type="stmt"/>
+        <line num="65" count="30" type="stmt"/>
+        <line num="67" count="30" type="stmt"/>
+        <line num="68" count="30" type="cond" truecount="2" falsecount="0"/>
+        <line num="69" count="26" type="stmt"/>
+        <line num="70" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="71" count="1" type="stmt"/>
+        <line num="72" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="73" count="1" type="stmt"/>
+        <line num="74" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="77" count="30" type="stmt"/>
+        <line num="78" count="30" type="stmt"/>
+        <line num="79" count="30" type="stmt"/>
+        <line num="80" count="30" type="stmt"/>
+        <line num="81" count="30" type="stmt"/>
+        <line num="84" count="4" type="stmt"/>
+        <line num="85" count="4" type="stmt"/>
+        <line num="86" count="4" type="stmt"/>
+      </file>
+      <file name="ChannelsList.js" path="/Users/abhinavsunil/cse118/Assignment8/src/UI/ChannelsList.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="26" count="16" type="stmt"/>
+        <line num="27" count="16" type="stmt"/>
+        <line num="31" count="30" type="stmt"/>
+        <line num="33" count="30" type="stmt"/>
+      </file>
+      <file name="MessageCard.js" path="/Users/abhinavsunil/cse118/Assignment8/src/UI/MessageCard.js">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+        <line num="30" count="30" type="stmt"/>
+        <line num="31" count="30" type="stmt"/>
+        <line num="40" count="30" type="stmt"/>
+        <line num="42" count="30" type="stmt"/>
+        <line num="45" count="30" type="stmt"/>
+        <line num="48" count="2" type="stmt"/>
+        <line num="49" count="2" type="stmt"/>
+      </file>
+      <file name="MessageView.js" path="/Users/abhinavsunil/cse118/Assignment8/src/UI/MessageView.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+      </file>
+      <file name="MessagesList.js" path="/Users/abhinavsunil/cse118/Assignment8/src/UI/MessagesList.js">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="26" count="2" type="stmt"/>
+        <line num="27" count="6" type="stmt"/>
+        <line num="28" count="6" type="stmt"/>
+        <line num="29" count="6" type="stmt"/>
+        <line num="30" count="26" type="stmt"/>
+        <line num="32" count="6" type="stmt"/>
+        <line num="36" count="30" type="stmt"/>
+        <line num="38" count="30" type="stmt"/>
+      </file>
+      <file name="SelectedMessage.js" path="/Users/abhinavsunil/cse118/Assignment8/src/UI/SelectedMessage.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="28" count="2" type="stmt"/>
+        <line num="37" count="2" type="stmt"/>
+        <line num="39" count="2" type="stmt"/>
+        <line num="43" count="2" type="stmt"/>
+      </file>
+      <file name="WorkspaceCard.js" path="/Users/abhinavsunil/cse118/Assignment8/src/UI/WorkspaceCard.js">
+        <metrics statements="34" coveredstatements="34" conditionals="10" coveredconditionals="10" methods="7" coveredmethods="7"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="45" count="690" type="stmt"/>
+        <line num="46" count="690" type="stmt"/>
+        <line num="48" count="7410" type="stmt"/>
+        <line num="52" count="690" type="stmt"/>
+        <line num="53" count="3030" type="stmt"/>
+        <line num="54" count="7410" type="stmt"/>
+        <line num="55" count="7410" type="stmt"/>
+        <line num="57" count="690" type="cond" truecount="2" falsecount="0"/>
+        <line num="59" count="690" type="stmt"/>
+        <line num="60" count="690" type="stmt"/>
+        <line num="61" count="690" type="stmt"/>
+        <line num="62" count="690" type="stmt"/>
+        <line num="63" count="690" type="stmt"/>
+        <line num="64" count="690" type="stmt"/>
+        <line num="66" count="690" type="stmt"/>
+        <line num="68" count="690" type="stmt"/>
+        <line num="69" count="690" type="cond" truecount="2" falsecount="0"/>
+        <line num="70" count="540" type="stmt"/>
+        <line num="71" count="150" type="cond" truecount="2" falsecount="0"/>
+        <line num="72" count="30" type="stmt"/>
+        <line num="73" count="120" type="cond" truecount="2" falsecount="0"/>
+        <line num="74" count="30" type="stmt"/>
+        <line num="75" count="90" type="cond" truecount="2" falsecount="0"/>
+        <line num="76" count="30" type="stmt"/>
+        <line num="79" count="690" type="stmt"/>
+        <line num="80" count="690" type="stmt"/>
+        <line num="81" count="690" type="stmt"/>
+        <line num="83" count="690" type="stmt"/>
+        <line num="85" count="690" type="stmt"/>
+        <line num="88" count="10" type="stmt"/>
+        <line num="89" count="10" type="stmt"/>
+        <line num="90" count="10" type="stmt"/>
+      </file>
+      <file name="WorkspaceList.js" path="/Users/abhinavsunil/cse118/Assignment8/src/UI/WorkspaceList.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="26" count="44" type="stmt"/>
+        <line num="27" count="44" type="stmt"/>
+        <line num="31" count="690" type="stmt"/>
+        <line num="33" count="690" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
